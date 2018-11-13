@@ -4,7 +4,7 @@ Comprehensive list of scholarships, internships, hackathons, and industry events
 # Contributing? 
 Would you like to share with the rest of the class? ;)  
 
-Consider sending a [pull request](https://github.com/missCarrieMah/GHC-Events/pulls), opening an [Issue](https://github.com/missCarrieMah/GHC-Events/issues).
+Consider submitting a [pull request](https://) or opening an [Issue](https://).
 
 ## 
 
