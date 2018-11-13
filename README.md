@@ -1,5 +1,5 @@
 # Non-Traditional Student's Guide
-Comprehensive list of scholarships, internships, hackathons, and industry events where **you,** the non-traditional student can gain experience, learn new tech, and get ahead.
+Comprehensive list of scholarships, internships, hackathons, and industry events where **you,** the non-traditional student, can gain experience, learn new tech, and get ahead.
 
 # Contributing? 
 Would you like to share with the rest of the class? ;)  
