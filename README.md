@@ -1,45 +1,54 @@
 # Non-Traditional Student's Guide
-Comprehensive list of scholarships, internships, hackathons, and industry events where **you,** the non-traditional student, can gain experience, learn new tech, and get ahead.
+Comprehensive list of scholarships, internships, conferences, hackathons, coding bootcamps, newsletters, online resources, and industry events where **you,** the non-traditional student, can gain experience, learn new tech, and get ahead.
+
+We're also including a stories/advice section so that you can get first-hand experience from other students who succeeded.
+
+# Who is a Non-Traditional Student?
+We're not into labels, but if you're a recently enrolled or current student whose a career changer, returner, over the age of 26, non-tradish background (art to STEAM, 1st Gen College, etc), etc, WELCOME!
 
 # Contributing? 
 Would you like to share with the rest of the class? ;)  
 
 Consider submitting a [pull request](https://) or opening an [Issue](https://).
 
-## 
+## Topics
 
-### Multiple Days
+### Conferences
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### 
+### Scholarships
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Tuesday
+### Returnships - 
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Wednesday
+### Internships
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Thursday
+### Coding Bootcamps
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Friday
+### D&I Newsletters
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Additional Events
+### Online Resources
+|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-### Private Events
+### Industry Events
+|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|:---------------------:|---------------|--------------|-------------|---------|-------------|
 
-## Recruitment Initiatives
+# First Hand Stories
 
-### Company Online Events
+## Template
 
-### Company Career Pages
-
-## Tech Events
+Name:
+Recommendation:
+Experience:
