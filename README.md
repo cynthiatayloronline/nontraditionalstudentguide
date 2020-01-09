@@ -1,5 +1,5 @@
-# Non-Traditional Student's Guide
-Comprehensive list of scholarships, internships, conferences, hackathons, coding bootcamps, newsletters, online resources, and industry events where **you,** the non-traditional student, can gain experience, learn new tech, and get ahead.
+# Non-Traditional Student's Guide to Tech
+Comprehensive list of scholarships, internships, conferences, certifications, hackathons, coding bootcamps, newsletters, online resources, and industry events where **you,** the non-traditional student, can gain experience, learn new tech, and get ahead.
 
 We're also including a stories/advice section so that you can get first-hand experience from other students who succeeded.
 
@@ -40,6 +40,15 @@ Consider submitting a [pull request](https://) or opening an [Issue](https://).
 ### Online Resources
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
+
+### Hackathons
+|Event	                | Company       | Location     | Date        | Time	   | Notes       | 
+|:---------------------:|---------------|--------------|-------------|---------|-------------|
+
+### Certifications
+|Event	                | Company       | Industry     |Expiration   | Scope   | Notes       | 
+|:---------------------:|---------------|--------------|-------------|---------|-------------|
+
 
 ### Industry Events
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
